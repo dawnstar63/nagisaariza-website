@@ -1,0 +1,36 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <div class="lang-picker">
+      {% assign curr_link = page.url | slice: 3 %}
+      <a id="lang-en" href="{{ page.url | replace_first: '/jp/', '/en/' }}">English</a>
+      <a id="lang-jp" href="{{ page.url | replace_first: '/en/', '/jp/' }}">Japanese</a>
+    </div>
+
+    <div class="header-links">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <div class="space-nav"></div>
+      <nav class="site-nav">
+          {% assign sorted_pages = site.pages | sort:"order" %}
+
+          {% for my_page in sorted_pages %}
+            {% if my_page.title and my_page.title != "Welcome" %}
+              {% assign current_lang = page.url | slice: 1, 2 %}
+              {% assign my_lang = my_page.url | slice: 1, 2 %}
+              {% if my_lang == current_lang %}
+                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+
+      </nav>
+      <img class="menu-icon" src="/img/MenuIcon4.png">
+
+
+    </div>
+
+  </div>
+
+</header>
