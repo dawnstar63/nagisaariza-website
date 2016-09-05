@@ -1,29 +1,39 @@
 <header class="site-header">
+  
+  <div class="lang-picker">
+    <a id="lang-en" href="{{ page.url | replace_first: '/jp/', '/en/' }}">English</a>
+    <a id="lang-jp" href="{{ page.url | replace_first: '/en/', '/jp/' }}">Japanese</a>
+  </div>
 
   <div class="wrapper">
-
-    <div class="lang-picker">
-      {% assign curr_link = page.url | slice: 3 %}
-      <a id="lang-en" href="{{ page.url | replace_first: '/jp/', '/en/' }}">English</a>
-      <a id="lang-jp" href="{{ page.url | replace_first: '/en/', '/jp/' }}">Japanese</a>
-    </div>
-
     <div class="header-links">
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <a class="site-title" href="{{ site.baseurl }}/">NAGISA ARIZA</a>
       <div class="space-nav"></div>
       <nav class="site-nav">
-          {% assign sorted_pages = site.pages | sort:"order" %}
+        {% assign current_lang = page.url | slice: 1, 2 %}
 
-          {% for my_page in sorted_pages %}
-            {% if my_page.title and my_page.title != "Welcome" %}
-              {% assign current_lang = page.url | slice: 1, 2 %}
-              {% assign my_lang = my_page.url | slice: 1, 2 %}
-              {% if my_lang == current_lang %}
-                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
+          {% if current_lang == "jp" %}
+          <ul>
+            <li><a class="page-link" href="{{ "/jp/about/" | prepend: site.baseurl }}">プロフィール</a></li>
+            <li><a class="page-link" href="{{ "/jp/events/" | prepend: site.baseurl }}">予定</a></li>
+            <li class="submenu-parent"><a class="page-link" href="{{ "/jp/lessons/" | prepend: site.baseurl }}">レッスン</a>
+              <ul class="submenu">
+                <li><a class="page-link" href="{{ "/jp/lessons/theory/" | prepend: site.baseurl }}">セオリー</a></li>
+                <li><a class="page-link" href="{{ "/jp/lessons/dictation/" | prepend: site.baseurl }}">聴音</a></li>
+                <li><a class="page-link" href="{{ "/jp/lessons/solfege/" | prepend: site.baseurl }}">ソルフェージュ</a></li>
+              </ul>
+            </li>
+            <li><a class="page-link" href="{{ "/jp/contact/" | prepend: site.baseurl }}">コンタクト</a></li>
+          </ul>
 
+          {% elsif current_lang == "en" %}
+          <ul>
+            <li><a class="page-link" href="{{ "/en/about/" | prepend: site.baseurl }}">About</a></li>
+            <li><a class="page-link" href="{{ "/en/events/" | prepend: site.baseurl }}">Events</a></li>
+            <li><a class="page-link submenu-parent" href="{{ "/en/lessons/" | prepend: site.baseurl }}">Lessons</a></li>
+            <li><a class="page-link" href="{{ "/en/contact/" | prepend: site.baseurl }}">Contact</a></li>
+          </ul>
+          {% endif %}
 
       </nav>
       <img class="menu-icon" src="/img/MenuIcon4.png">
