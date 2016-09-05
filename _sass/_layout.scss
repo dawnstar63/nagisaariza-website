@@ -21,10 +21,6 @@
     height: auto;
     padding-top: $spacing-unit;
 
-    &:lang(jp) {
-      padding-bottom: $spacing-unit/2;
-    }
-
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -105,15 +101,13 @@ nav.site-nav ul {
 
 
     .page-link {
-        white-space: nowrap;
-
         font-size: 20px;
         color: $text-color;
         display: inline-block;
         margin: 0px 10px;
 
         border-bottom: 4px solid rgba(0,0,0,0);
-        padding: 0px 0px;
+        padding: 6px 0px;
 
         &.current {
             text-decoration: none;
@@ -124,10 +118,10 @@ nav.site-nav ul {
 
 
         &:hover {
-            // transition: 0.3s ease;
+            transition: 0.6s ease;
             text-decoration: none;
-            // border-bottom: 4px solid $grey-color;
-            // padding: 6px 0px; 
+            border-bottom: 4px solid $grey-color;
+            padding: 6px 0px; 
             color: lighten($text-color, 15%);
         }
 
@@ -162,10 +156,9 @@ li.submenu-parent ul.submenu {
   position: absolute;
   top: 100%;
   left: 0px;
-  width: 150%;
+  width: 180%;
   margin-left: 0px;
-  // margin-top: 10px;
-  padding: 10px 0px;
+  margin-top: 8px;
   transform: translateY(-2em);
   z-index: -1;
   transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s, z-index 0s linear 0.01s;
@@ -174,6 +167,9 @@ li.submenu-parent ul.submenu {
 
   a.page-link {
     margin-top: 5px;
+    margin-bottom: 5px;
+    // padding: 6px 0px;
+    border: none;
   }
 }
 
@@ -407,7 +403,15 @@ table {
 
 
 img {
-    padding: 0px 30px 30px 0px;
+
+    &.float-left {
+      padding-right: 30px;
+      padding-bottom: 30px;
+    }
+    &.float-right {
+      padding-left: 30px;      
+      padding-bottom: 30px;
+    }
 }
 
 
