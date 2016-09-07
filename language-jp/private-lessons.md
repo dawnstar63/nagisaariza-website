@@ -1,6 +1,6 @@
 ---
 layout: page-jp
-title: ピアノレッスン
+title: 音楽の賜物を楽しむために
 permalink: /jp/lessons/private-lessons/
 ---
 
@@ -23,7 +23,7 @@ permalink: /jp/lessons/private-lessons/
 
 
 
-<h4 style="clear:both;">新たな夢に向かっての挑戦　〜ピアノを通じて可能性にチャレンジ〜</h4>
+<h4 style="clear:both;">新たな夢に向かって　〜ピアノを通じて可能性にチャレンジ〜</h4>
 <img class="float-left" src="/img/carnegie recital.jpg" alt="" width="300px" style="float:left;">
 
 中級〜上級の生徒さんには、さまざまな演奏の機会が用意されています。当教室の発表会の他、地元のコミュニティで演奏したり、コンクールやオーディション、またニューヨークのカーネギーホールで演奏できるチャンスもあります。ソロ以外にも、ピアノデュオや室内楽で、アンサンブルを楽しむこともできます。また将来、音楽の道を志望する生徒さんには、受験のサポートもいたします。

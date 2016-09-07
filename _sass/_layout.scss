@@ -312,6 +312,10 @@ table {
  */
 .page-content {
     padding: $spacing-unit 0;
+
+  :lang(jp) {
+      font-family: Helvetica;
+  }
 }
 
 .page-heading {
