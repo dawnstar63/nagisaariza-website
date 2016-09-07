@@ -95,7 +95,7 @@ nav.site-nav ul {
     flex: auto;
 
     @include media-query($on-palm) {
-        display: none;
+        display: inline-block;
     }
     width: 100%;
 
