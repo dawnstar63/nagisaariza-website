@@ -12,20 +12,20 @@ permalink: /jp/
                 <ol class="carousel-indicators hidden-xs">
                     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                    <!-- <li data-target="#carousel-example-generic" data-slide-to="2"></li> -->
                 </ol>
 
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img class="img-responsive img-full" src="../img/slide-1.jpg" alt="">
+                        <img class="img-responsive img-full" src="../img/Nagisa recital with piano.jpg" alt="">
                     </div>
                     <div class="item">
-                        <img class="img-responsive img-full" src="../img/slide-2.jpg" alt="">
+                        <img class="img-responsive img-full" src="../img/nagisa black and white old.jpeg" alt="">
                     </div>
-                    <div class="item">
+                    <!-- <div class="item">
                         <img class="img-responsive img-full" src="../img/slide-3.jpg" alt="">
-                    </div>
+                    </div> -->
                 </div>
 
                 <!-- Controls -->
