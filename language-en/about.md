@@ -5,4 +5,4 @@ permalink: /en/about/
 order: 1
 ---
 
-About Nagisa Ariza.
+Coming soon!

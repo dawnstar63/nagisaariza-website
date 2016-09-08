@@ -306,6 +306,16 @@ table {
 }
 
 
+h3:lang(jp) {
+  font-family: Voltaire !important;
+}
+table :lang(jp) {
+  font-family: Voltaire !important;
+}
+form :lang(jp) {
+  font-family: Voltaire !important;
+}
+
 
 /**
  * Page content
@@ -313,9 +323,10 @@ table {
 .page-content {
     padding: $spacing-unit 0;
 
-  :lang(jp) {
-      font-family: Helvetica;
-  }
+    :lang(jp) {
+        font-family: Helvetica;
+    }
+
 }
 
 .page-heading {
