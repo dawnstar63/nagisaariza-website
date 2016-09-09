@@ -32,7 +32,15 @@
           <ul>
             <li><a class="page-link" href="{{ "/en/about/" | prepend: site.baseurl }}">About</a></li>
             <li><a class="page-link" href="{{ "/en/events/" | prepend: site.baseurl }}">Events</a></li>
-            <li><a class="page-link submenu-parent" href="{{ "/en/lessons/" | prepend: site.baseurl }}">Lessons</a></li>
+            <li class="submenu-parent"><a class="page-link">Lessons</a>
+              <ul class="submenu">
+                <li><a class="page-link" href="{{ "/en/lessons/private-lessons/" | prepend: site.baseurl }}">Piano Lessons</a></li>
+                <li><a class="page-link" href="{{ "/en/lessons/theory/" | prepend: site.baseurl }}">Theory</a></li>
+                <li><a class="page-link" href="{{ "/en/lessons/workshop/" | prepend: site.baseurl }}">Workshop</a></li>
+                <li><a class="page-link" href="{{ "/en/lessons/testimonials/" | prepend: site.baseurl }}">Testimonials</a></li>
+              </ul>
+            </li>
+            <li><a class="page-link" href="{{ "/en/studio-recording/" | prepend: site.baseurl }}">Recording Studio</a></li>            
             <li><a class="page-link" href="{{ "/en/contact/" | prepend: site.baseurl }}">Contact</a></li>
           </ul>
           {% endif %}

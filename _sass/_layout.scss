@@ -78,11 +78,7 @@
 
 nav.site-nav ul {
     list-style-type: none;
-    display: inline;
-
-    &:lang(jp) {
-      display: inline-block;
-    }
+    display: inline-block;
 
     li {
       display: inline;
