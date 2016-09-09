@@ -313,6 +313,7 @@ form :lang(jp) {
 }
 
 
+
 /**
  * Page content
  */
@@ -322,7 +323,9 @@ form :lang(jp) {
     :lang(jp) {
         font-family: Helvetica;
     }
-
+    .voltaire {
+      font-family: Voltaire;
+    }
 }
 
 .page-heading {
