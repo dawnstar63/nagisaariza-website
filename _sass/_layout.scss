@@ -2,6 +2,7 @@
 .container {
     margin-right: auto;
     margin-left: auto;
+    overflow: hidden;
     background-color: rgba(255,255,255,0.7);
 
     width: $content-width;
@@ -142,6 +143,15 @@ nav.site-nav ul {
     transform: translateY(0%);
     transition-delay: 0s, 0s, 0.3s; 
     /* this removes the transition delay so the menu will be visible while the other styles transition */
+  }
+  @include media-query($on-palm) {
+      &:active {
+        visibility: visible; /* shows sub-menu */
+        opacity: 1;
+        z-index: 1;
+        transform: translateY(0%);
+        transition-delay: 0s, 0s, 0.3s; 
+      }
   }
 
 }
