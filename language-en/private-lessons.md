@@ -28,14 +28,14 @@ For elementary students and above, you will build up the foundation of piano pla
 <h4 class="with-description" style="clear:right;">Advanced Piano Lessons</h4>
 <h5>Pursuing New Challenges and Dreams</h5>
 
-For intermediate and advanced students, there are numerous performance opportunities available. In addition to my annual student recital, there are opportunities to perform in the nearby community, international/national competitions and auditions, and even at Carnegie Hall in New York. Other than solo playing, you can gain experience playing in piano duets and other chamber music ensembles. Furthermore, for students striving for a music career, there is help and support provided for college admissions.
+For intermediate and advanced students, there are numerous performance opportunities available. In addition to my annual student recital, there are opportunities to perform in the nearby community, international/national competitions and auditions, and at venues such as the Carnegie Hall in New York. Other than solo playing, you can gain experience playing in piano duets and other chamber music ensembles. Furthermore, for students striving for a music career, there is help and support provided for college admissions.
 
 <br>
 
 <img class="float-right" src="/img/piano lesson adult 3.jpg" alt="" width="300px" style="float:right;">
 <h4 style="clear:left;">Piano Lessons for Adults</h4>
 
-Whether you want to pick up piano lessons again, if you want to begin learning with your children, or if you want to refine your hobby of piano playing, there are as many different goals as there are people. With lessons matched to your style and needs, you will be able to realize your dreams.
+Whether you want to pick up piano lessons again, if you want to begin learning with your children, or if you want to refine your hobby of piano playing, there are as many different goals as there are music lovers. With lessons matched to your style and needs, you will be able to realize your dreams.
 
 
 <p style="float:right; clear:both;" class="voltaire">Photography by Masa Hokari</p>
