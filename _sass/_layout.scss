@@ -145,7 +145,7 @@ nav.site-nav ul {
     /* this removes the transition delay so the menu will be visible while the other styles transition */
   }
   @include media-query($on-palm) {
-      &:active {
+      &:hover {
         visibility: visible; /* shows sub-menu */
         opacity: 1;
         z-index: 1;
