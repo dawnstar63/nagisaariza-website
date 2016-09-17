@@ -211,6 +211,7 @@ li.submenu-parent ul.submenu {
 
     &#lang-jp {
       margin-left: 40px;
+      font-size: 14px;
 
     }
   }
@@ -289,8 +290,8 @@ table {
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -407,7 +408,7 @@ form :lang(jp) {
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 22px;
 
         &.with-description {
             margin-bottom: 0;
@@ -433,11 +434,11 @@ img {
 
     &.float-left {
       padding-right: 30px;
-      padding-bottom: 30px;
+      padding-bottom: 20px;
     }
     &.float-right {
       padding-left: 30px;      
-      padding-bottom: 30px;
+      padding-bottom: 20px;
     }
 }
 
