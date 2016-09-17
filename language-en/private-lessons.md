@@ -28,7 +28,7 @@ For elementary students and above, you will build up the foundation of piano pla
 <h4 class="with-description" style="clear:right;">Advanced Piano Lessons</h4>
 <h5>Pursuing New Challenges and Dreams</h5>
 
-For intermediate and advanced students, there are numerous performance opportunities available. In addition to my annual student recital, there are opportunities to perform in the nearby community, local/national competitions and auditions, and even at Carnegie Hall in New York. Other than solo playing, you can gain experience playing in piano duets and other chamber music ensembles. Furthermore, for students striving for a music career, there is help and support provided for college admissions.
+For intermediate and advanced students, there are numerous performance opportunities available. In addition to my annual student recital, there are opportunities to perform in the nearby community, international/national competitions and auditions, and even at Carnegie Hall in New York. Other than solo playing, you can gain experience playing in piano duets and other chamber music ensembles. Furthermore, for students striving for a music career, there is help and support provided for college admissions.
 
 <br>
 
