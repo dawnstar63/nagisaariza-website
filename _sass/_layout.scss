@@ -136,7 +136,7 @@ nav.site-nav ul {
   position: relative; 
   visibility: visible;
 
-  &:hover, &:active, &:focus {
+  &:hover, &:active {
     .submenu {
       visibility: visible; /* shows sub-menu */
       opacity: 1;
