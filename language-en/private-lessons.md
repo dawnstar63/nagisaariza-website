@@ -14,7 +14,7 @@ A child's hearing develops the most between the ages of 4 and 5. By having child
 
 <br>
 
-<img class="float-right" src="/img/lesson piano.jpg" alt="" width="250px" style="float:right; clear:both;">
+<img class="float-right" src="/img/lesson-piano.jpg" alt="" width="250px" style="float:right; clear:both;">
 
 <h4 class="with-description" style="clear:left;">Intermediate Piano Lessons</h4>
 <h5>Developing Solid Piano Technique and Learning Repertoire</h5>

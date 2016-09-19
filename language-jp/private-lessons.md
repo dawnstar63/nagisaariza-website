@@ -15,7 +15,7 @@ permalink: /jp/lessons/private-lessons/
 
 
 <h4 style="clear:both;">本格的なピアノレッスン　〜確かな技術とレパートリーの拡充〜</h4>
-<img class="float-right" src="/img/lesson piano.jpg" alt="" width="250px" style="float:right;">
+<img class="float-right" src="/img/lesson-piano.jpg" alt="" width="250px" style="float:right;">
 
 小学生以上の生徒さんには、基本となるピアノ奏法をしっかりと身につけて、さまざまな曲が演奏できるように指導していきます。テクニック面だけでなく、音楽面の成長も促しながら、表現力豊かな演奏ができるように導いていきます。バロック、古典派、ロマン派、近現代など、いろいろな時代やスタイルのレパートリーを幅広く学びます。また楽典・セオリーの指導も行っています。
 
