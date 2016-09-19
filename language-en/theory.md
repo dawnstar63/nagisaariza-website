@@ -4,7 +4,7 @@ title: Theory/Ear Training
 permalink: /en/lessons/theory/
 ---
 
-<p style="margin-bottom: 5px;"><img src="/img/theory books 1.jpg" alt=""></p>
+<p style="margin-bottom: 5px;"><img src="/img/theory-books-1.jpg" alt=""></p>
 <p style="float:right;" class="voltaire">Photography by Masa Hokari</p>
 
 <br>

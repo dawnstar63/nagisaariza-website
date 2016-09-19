@@ -4,7 +4,7 @@ title: 楽典(セオリー)・聴音・ソルフェージュ
 permalink: /jp/lessons/theory/
 ---
 
-<img src="/img/theory books 1.jpg" alt="">
+<img src="/img/theory-books-1.jpg" alt="">
 <p style="float:right;" class="voltaire">Photography by Masa Hokari</p>
 
 <br>

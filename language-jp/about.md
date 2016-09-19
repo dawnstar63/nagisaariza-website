@@ -5,7 +5,7 @@ permalink: /jp/about/
 order: 1
 ---
 
-<img class="float-left" src="/img/nagisa ariza red curtain.jpg" alt="" width="300px" style="float:left;">
+<img class="float-left" src="/img/nagisa-ariza-red-curtain.jpg" alt="" width="300px" style="float:left;">
 
 こんにちは！　
 ピアニスト/ミュージック・エデュケイターの有座なぎさです。

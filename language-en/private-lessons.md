@@ -4,7 +4,7 @@ title: Piano Lessons
 permalink: /en/lessons/private-lessons/
 ---
 
-<img class="float-left" src="/img/lesson singing.jpg" alt="" width="300px" style="float:left;">
+<img class="float-left" src="/img/lesson-singing.jpg" alt="" width="300px" style="float:left;">
 
 <h4 class="with-description">Lessons with Emphasis on Music Education</h4>
 <h5>For Young Children Learning Music for the First Time</h5>
@@ -23,7 +23,7 @@ For elementary students and above, you will build up the foundation of piano pla
 
 <br>
 
-<img class="float-left" src="/img/carnegie recital.jpg" alt="" width="300px" style="float:left; clear:both;">
+<img class="float-left" src="/img/carnegie-recital.jpg" alt="" width="300px" style="float:left; clear:both;">
 
 <h4 class="with-description" style="clear:right;">Advanced Piano Lessons</h4>
 <h5>Pursuing New Challenges and Dreams</h5>
@@ -32,7 +32,7 @@ For intermediate and advanced students, there are numerous performance opportuni
 
 <br>
 
-<img class="float-right" src="/img/piano lesson adult 3.jpg" alt="" width="300px" style="float:right;">
+<img class="float-right" src="/img/piano-lesson-adult-3.jpg" alt="" width="300px" style="float:right;">
 <h4 style="clear:left;">Piano Lessons for Adults</h4>
 
 Whether you want to pick up piano lessons again, if you want to begin learning with your children, or if you want to refine your hobby of piano playing, there are as many different goals as there are music lovers. With lessons matched to your style and needs, you will be able to realize your dreams.
