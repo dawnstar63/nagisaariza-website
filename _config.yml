@@ -7,7 +7,7 @@
 
 # Site settings
 title: "Nagisa Ariza"
-description: > # this means to ignore newlines until "baseurl:"
+footer_description: > # this means to ignore newlines until "baseurl:"
   Official website of Nagisa Ariza.
   © 2016 Nagisa Ariza, All Rights Reserved. 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,3 +15,6 @@ url: "http://nagisaariza.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+description: >
+  Having taught over 1000 students in the U.S. and Japan, Nagisa Ariza is 
+  a professional pianist and music educator living in the San Francisco Bay Area.
