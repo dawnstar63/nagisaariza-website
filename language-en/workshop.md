@@ -1,5 +1,6 @@
 ---
 layout: page-en
+language: en
 title: Workshop
 permalink: /en/lessons/workshop/
 ---

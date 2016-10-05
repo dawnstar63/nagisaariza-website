@@ -1,5 +1,6 @@
 ---
 layout: page-jp
+language: jp
 title: ありがとうございました！	
 permalink: /jp/thank-you/
 order: 4

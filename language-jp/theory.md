@@ -1,5 +1,6 @@
 ---
 layout: page-jp
+language: jp
 title: 楽典(セオリー)・聴音・ソルフェージュ
 permalink: /jp/lessons/theory/
 ---

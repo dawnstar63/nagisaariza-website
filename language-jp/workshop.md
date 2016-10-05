@@ -1,5 +1,6 @@
 ---
 layout: page-jp
+language: jp
 title: ワークショップ
 permalink: /jp/lessons/workshop/
 ---

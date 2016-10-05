@@ -1,5 +1,6 @@
 ---
 layout: page-jp
+language: jp
 title: ご父兄からの声
 permalink: /jp/lessons/testimonials/
 ---

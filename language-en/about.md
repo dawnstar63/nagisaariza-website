@@ -1,5 +1,6 @@
 ---
 layout: page-en
+language: en
 title: About
 permalink: /en/about/
 order: 1

@@ -1,5 +1,6 @@
 ---
 layout: page-en
+language: en
 title: Theory/Ear Training
 permalink: /en/lessons/theory/
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page-jp
+language: jp
 title: スタジオ・レコーディング	
 permalink: /jp/studio-recording/
 ---

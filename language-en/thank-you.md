@@ -1,5 +1,6 @@
 ---
 layout: page-en
+language: en
 title: Thank you for submitting the form!
 permalink: /en/thank-you/
 order: 4

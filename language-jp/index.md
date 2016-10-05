@@ -1,5 +1,6 @@
 ---
 layout: page-jp
+language: jp
 title: ホーム
 permalink: /jp/
 ---

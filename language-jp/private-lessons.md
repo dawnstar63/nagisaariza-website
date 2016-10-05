@@ -1,5 +1,6 @@
 ---
 layout: page-jp
+language: jp
 title: 音楽の賜物を楽しむために
 permalink: /jp/lessons/private-lessons/
 ---

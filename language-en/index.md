@@ -1,5 +1,6 @@
 ---
 layout: page-en
+language: en
 title: Welcome
 permalink: /en/
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page-en
+language: en
 title: Recording Studio
 permalink: /en/studio-recording/
 ---
