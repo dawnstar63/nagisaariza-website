@@ -19,7 +19,7 @@ permalink: /en/lessons/testimonials/
 
 <img class="float-left" src="/img/family-k-san-cropped.jpg" alt="" width="300px" style="float:left;">
 
-"A year has passed since my children have started taking lessons from Ms. Ariza. With her warm, enthusiastic teaching, both of them are constantly improving. In addition to her fabulous teaching of piano technique and musicality, she teaches the pleasure of music-making, how to approach the piano, and practice methods; for each step, she instructs her students with tremendous care. We are sincerely grateful for having started lessons with Ms. Ariza." (from the K Family)
+"My children began piano lessons with Ms. Ariza. With her warm, enthusiastic teaching, both of them are continuously improving. In addition to her fabulous teaching of piano technique and musicality, she teaches the pleasure of music-making, how to approach the piano, and practice methods; for each step, she instructs her students with tremendous care. We are sincerely grateful for having started lessons with Ms. Ariza." (from the K Family)
 
 
 <p style="float:left; clear:both;" class="voltaire">Photography by Masa Hokari</p>
