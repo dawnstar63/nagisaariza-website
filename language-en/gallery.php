@@ -1,17 +1,30 @@
+---
+layout: page-en
+language: en
+title: Photo Gallery
+permalink: /en/gallery/index.php
+---
+
 <div class="container gallery-container">
 
     <div class="tz-gallery">
 
         <div class="row">
-
-        	<?php
-			    $files = scandir('/img/');
-			    foreach($files as $file) {
-			        if($file !== "." && $file !== "..") {
-			            echo "<img src=".$file.">";
-			        }
-			    }
-			?>
+            {% raw %}
+            <?php
+                $files = scandir('../img/');
+                foreach($files as $file) {
+                    if($file !== "." && $file !== "..") {
+                        echo
+                       '<div class="col-sm-6 col-md-4">
+                            <a class="lightbox" href="'.$file.'">
+                                <img src="'.$file.'" alt="">
+                            </a>
+                        </div>';
+                    }
+                }
+            ?>
+            {% endraw %}
 
             <!-- <div class="col-sm-12 col-md-8">
                 <a class="lightbox" href="/img/piano-duo.jpg">
@@ -37,7 +50,7 @@
                 <a class="lightbox" href="/img/piano-duo.jpg">
                     <img src="/img/piano-duo.jpg" alt="Piano Duo">
                 </a>
-            </div> 
+            </div>
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="/img/piano-duo.jpg">
                     <img src="/img/piano-duo.jpg" alt="Piano Duo">
