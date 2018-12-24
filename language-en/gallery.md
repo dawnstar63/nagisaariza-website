@@ -12,7 +12,7 @@ permalink: /en/gallery/index.php
         <div class="row">
 
         	<?php
-			    $files = scandir('/img/');
+			    $files = scandir('../img/');
 			    foreach($files as $file) {
 			        if($file !== "." && $file !== "..") {
 			            echo 
