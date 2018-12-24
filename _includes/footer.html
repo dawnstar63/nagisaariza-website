@@ -4,11 +4,25 @@
 
     <h2 class="footer-heading">Nagisa Ariza</h2>
 
-    <!-- {% if (page.language == "en") %}Nagisa Ariza{% else %} 有座なぎさ{% endif %} -->
-
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p>{{ site.footer_description }}</p>
+
+        {% if current_lang == "jp" %}
+        <ul class="footer-nav">
+          <li><a class="page-link" href="{{ "/jp/about/" | prepend: site.baseurl }}">プロフィール</a></li>
+          <li><a class="page-link" href="{{ "/jp/events/" | prepend: site.baseurl }}">予定</a></li>
+          <li><a class="page-link" href="{{ "/jp/contact/" | prepend: site.baseurl }}">コンタクト</a></li>
+        </ul>
+
+        {% elsif current_lang == "en" %}
+        <ul class="footer-nav">
+    			<li><a class="page-link" href="{{ "/en/about/" | prepend: site.baseurl }}">About</a></li>
+    			<li><a class="page-link" href="{{ "/en/events/" | prepend: site.baseurl }}">Events</a></li>
+    			<li><a class="page-link" href="{{ "/en/contact/" | prepend: site.baseurl }}">Contact</a></li>
+    		</ul>
+        {% endif %}
+
       </div>
 
     </div>

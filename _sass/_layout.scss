@@ -100,7 +100,7 @@ nav.site-nav ul {
 
     .page-link {
         font-size: 20px;
-        color: $text-color;
+        color: lighten($text-color, 10%);
         display: inline-block;
         margin: 0px 10px;
 
@@ -201,6 +201,7 @@ li.submenu-parent ul.submenu {
   right: $spacing-unit;
 
   a {
+    color: $text-color;
     &.current {
         text-decoration: none;
         color: $text-color-light;
@@ -256,6 +257,16 @@ table {
 .site-footer {
     // border-top: 1px solid $grey-color-light;
     padding-bottom: $spacing-unit;
+
+    ul.footer-nav{
+      list-style: none;
+      display: flex;
+      margin-left: 0;
+      a {
+        margin-right: $spacing-unit;
+
+      }
+    }
 }
 
 .footer-heading {
@@ -414,7 +425,7 @@ form label:lang(jp) {
         font-size: 22px;
 
         &.with-description {
-            margin-bottom: 0;
+            margin-bottom: $spacing-unit/4;
         }
 
         @include media-query($on-laptop) {

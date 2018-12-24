@@ -15,9 +15,14 @@
   <link rel="alternate" href="{{ page.url | replace:'/jp/','/en/' | prepend: site.baseurl | prepend: site.url }}" hreflang="en">
   <link rel="alternate" href="{{ page.url | replace:'/en/','/jp/' | prepend: site.baseurl | prepend: site.url }}" hreflang="jp">
 
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
 
   <link href="https://fonts.googleapis.com/css?family=Voltaire" rel="stylesheet">
 
@@ -44,5 +49,6 @@
 
 </script>
 
+{% assign current_lang = page.url | slice: 1, 2 %}
 
 </head>
