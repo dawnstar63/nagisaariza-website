@@ -1,72 +1,20 @@
 ---
+layout: page-en
 language: en
 title: Photo Gallery
 permalink: /en/gallery/
 ---
 
-<head>	
-	<meta http-equiv="refresh" content="0; url=/en/gallery/index.php" />
- </head>
-<!-- 
-<div class="container gallery-container">
-
-    <div class="tz-gallery">
-
-        <div class="row">
-        	{% raw %}
-        	<?php
-			    $files = scandir('../img/');
-			    foreach($files as $file) {
-			        if($file !== "." && $file !== "..") {
-			            echo 
-			           '<div class="col-sm-6 col-md-4">
-				            <a class="lightbox" href="'.$file.'">
-					            <img src="'.$file.'" alt="">
-				            </a>
-			            </div>';
-			        }
-			    }
-			?>
-        	{% endraw %}
-
-            <div class="col-sm-12 col-md-8">
-                <a class="lightbox" href="/img/piano-duo.jpg">
-                    <img src="/img/piano-duo.jpg" alt="Piano Duo">
-                </a>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="/img/piano-duo.jpg">
-                    <img src="/img/piano-duo.jpg" alt="Piano Duo">
-                </a>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="/img/piano-duo.jpg">
-                    <img src="/img/piano-duo.jpg" alt="Piano Duo">
-                </a>
-            </div>
-            <div class="col-sm-12 col-md-8">
-                <a class="lightbox" href="/img/piano-duo.jpg">
-                    <img src="/img/piano-duo.jpg" alt="Piano Duo">
-                </a>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="/img/piano-duo.jpg">
-                    <img src="/img/piano-duo.jpg" alt="Piano Duo">
-                </a>
-            </div> 
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="/img/piano-duo.jpg">
-                    <img src="/img/piano-duo.jpg" alt="Piano Duo">
-                </a>
-            </div>
-
-        </div>
-
-    </div>
-
+<div class="fg-gallery">
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 <script>
-    baguetteBox.run('.tz-gallery');
-</script> -->
+    var a = new FgGallery('.fg-gallery', {
+        cols: 3,
+        style: {
+            border: '10px solid #fff',
+            height: '180px',
+            boxShadow: '0px 2px 15px -5px #000'
+        }
+    })
+</script>
