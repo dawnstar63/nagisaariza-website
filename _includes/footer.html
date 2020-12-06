@@ -1,30 +1,34 @@
 <footer class="site-footer">
 
   <div class="wrapper">
+    <h3>Links:</h3>
+    <div class="links">
+    <a href="https://jweeklyusa.com/category/columns/ariza-piano/">
+      <img style="float: left; margin: 4px;" src="/img/ariza-banner.png" width="200" height="74"/>
+    </a>
 
-    <h2 class="footer-heading">Nagisa Ariza</h2>
+    <a href="https://www.sheetmusicplus.com/instruments/piano-sheet-music/900069?aff_id=379795">
+      <img style="float: left; margin: 4px;" src="/img/sheetmusicplus.png"/>
+    </a>
+
+    <br><br><br><br>
+
+    <a href="http://yujinariza.com/violin">
+      <img style="float: left; margin: 4px;" src="/img/yujin-banner.jpg"/>
+    </a>
+
+    <a href="http://elenaariza.com">
+      <img style="float: left; margin: 4px;" src="/img/elena-banner.jpg"/>
+    </a>
+
+    <br><br><br><br>
+    <br><br>
+    </div>
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p>{{ site.footer_description }}</p>
-
-        {% if current_lang == "jp" %}
-        <ul class="footer-nav">
-          <li><a class="page-link" href="{{ "/jp/about/" | prepend: site.baseurl }}">プロフィール</a></li>
-          <li><a class="page-link" href="{{ "/jp/events/" | prepend: site.baseurl }}">予定</a></li>
-          <li><a class="page-link" href="{{ "/jp/contact/" | prepend: site.baseurl }}">コンタクト</a></li>
-        </ul>
-
-        {% elsif current_lang == "en" %}
-        <ul class="footer-nav">
-    			<li><a class="page-link" href="{{ "/en/about/" | prepend: site.baseurl }}">About</a></li>
-    			<li><a class="page-link" href="{{ "/en/events/" | prepend: site.baseurl }}">Events</a></li>
-    			<li><a class="page-link" href="{{ "/en/contact/" | prepend: site.baseurl }}">Contact</a></li>
-    		</ul>
-        {% endif %}
-
       </div>
-
     </div>
 
   </div>

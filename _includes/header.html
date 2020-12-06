@@ -1,5 +1,5 @@
 <header class="site-header">
-  
+
   <div class="lang-picker">
     <a id="lang-en" href="{{ page.url | replace_first: '/jp/', '/en/' }}">English</a>
     <a id="lang-jp" href="{{ page.url | replace_first: '/en/', '/jp/' }}">日本語</a>
@@ -23,6 +23,7 @@
                 <li><a class="page-link" href="{{ "/jp/lessons/testimonials/" | prepend: site.baseurl }}">ご父兄からの声</a></li>
               </ul>
             </li>
+            <li><a class="page-link" href="{{ "/jp/achievements/" | prepend: site.baseurl }}">生徒たちの受賞歴</a></li>
             <li><a class="page-link" href="{{ "/jp/studio-recording/" | prepend: site.baseurl }}">スタジオ・レコーディング</a></li>
             <li><a class="page-link" href="{{ "/jp/contact/" | prepend: site.baseurl }}">コンタクト</a></li>
           </ul>
@@ -39,7 +40,8 @@
                 <li><a class="page-link" href="{{ "/en/lessons/testimonials/" | prepend: site.baseurl }}">Testimonials</a></li>
               </ul>
             </li>
-            <li><a class="page-link" href="{{ "/en/studio-recording/" | prepend: site.baseurl }}">Recording Studio</a></li>            
+            <li><a class="page-link" href="{{ "/en/achievements/" | prepend: site.baseurl }}">Students' Achievements</a></li>
+            <li><a class="page-link" href="{{ "/en/studio-recording/" | prepend: site.baseurl }}">Recording Studio</a></li>
             <li><a class="page-link" href="{{ "/en/contact/" | prepend: site.baseurl }}">Contact</a></li>
           </ul>
           {% endif %}
