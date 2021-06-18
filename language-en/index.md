@@ -6,7 +6,7 @@ permalink: /en/
 ---
 
 <h3 style="color:DarkGreen;">
-  <div id="typedtext">Now offering Online Piano Lessons!</div>
+  <div id="typedtext">Now reopening studio in-person lessons!</div>
   <script type="text/javascript">
     window.onload = function() { typewriter("<small>&nbsp;&nbsp;&nbsp;&nbsp;Please contact for the details."); }
   </script>
