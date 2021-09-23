@@ -10,5 +10,4 @@ permalink: /en/lessons/theory/
 
 <br>
 
-For students preparing to apply to conservatories and pre-colleges, musicians embarking on professional careers, and those for whom piano is not their main instrument, there are lessons covering music theory, dictation, solfege, and more. Short-term lessons before auditions are also offered. Please don't hesitate to contact me for more information.
-
+For students preparing to apply to conservatories and pre-colleges, musicians embarking on professional careers, and those for whom piano is not their main instrument, there are lessons covering music theory, dictation, solfege, and more. Short-term lessons are offered to music school/conservatory students before auditions and competitions. Please don’t hesitate to contact me for more information.
