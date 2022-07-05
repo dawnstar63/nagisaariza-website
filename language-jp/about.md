@@ -1,7 +1,7 @@
 ---
 layout: page-jp
 language: jp
-title: プロフィール	
+title: 自己紹介
 permalink: /jp/about/
 order: 1
 ---

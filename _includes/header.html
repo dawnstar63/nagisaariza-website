@@ -13,7 +13,8 @@
 
           {% if current_lang == "jp" %}
           <ul>
-            <li><a class="page-link" href="{{ "/jp/about/" | prepend: site.baseurl }}">プロフィール</a></li>
+            <li><a class="page-link" href="{{ "/jp/about/" | prepend: site.baseurl }}">自己紹介</a></li>
+            <li><a class="page-link" href="{{ "/en/news/" | prepend: site.baseurl }}">ニュース</a></li>
             <li><a class="page-link" href="{{ "/jp/events/" | prepend: site.baseurl }}">イベント</a></li>
             <li class="submenu-parent"><a class="page-link">レッスン</a>
               <ul class="submenu">
@@ -31,6 +32,7 @@
           {% elsif current_lang == "en" %}
           <ul>
             <li><a class="page-link" href="{{ "/en/about/" | prepend: site.baseurl }}">About</a></li>
+            <li><a class="page-link" href="{{ "/en/news/" | prepend: site.baseurl }}">News!</a></li>
             <li><a class="page-link" href="{{ "/en/events/" | prepend: site.baseurl }}">Events</a></li>
             <li class="submenu-parent"><a class="page-link">Lessons</a>
               <ul class="submenu">
