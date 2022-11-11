@@ -5,22 +5,16 @@ title: Achievements
 permalink: /en/achievements/
 ---
 <h3>Lisa Saito</h3>
-<2022>
-- 1st place in the Glory International Piano Competition, III category (age 10-13)
-- 3rd place in the Paderewski International Piano Competition, Junior category
-- Honorable Mention in the Pacific Musical Society
-- Passed the audition to perform at Junior Bach Festival in 2022
-- Performed in the Masterclass led by Dmitry Rochmanov
-- Performed in the Masterclass led by Antonio Pompa-Baldi
-
-<br>
-<2021>
+- Performed in the San Jose International Piano Competition Master Class with Dr. Namik Sultanov in 2022
+- 1st place in the Glory International Piano Competition, III category (age 10-13) in 2022
+- 3rd place in the Paderewski International Piano Competition, Junior category in 2022
+- Honorable Mention in the Pacific Musical Society in 2022
+- Selected the audition to perform at Junior Bach Festival in 2022 & 2021
+- Performed in the Masterclass led by Dmitry Rochmanov in 2021
+- Performed in the Masterclass led by Antonio Pompa-Baldi in 2021
 - Passed the audition to perform at Junior Bach Festival in 2021
-- Winner of American Fine Arts Festival Summer Selection
-
-<br>
-<2020>
-- 1st place Special Theme Award (Mozart) and Chinese Music Award in the USIMC.
+- Winner of American Fine Arts Festival Summer Selection in 2021
+- 1st place Special Theme Award (Mozart) and Chinese Music Award in the USIMC in 2020.
 - 1st place Chinese Music Award in the US International Music Competition 2020,
 - 2nd place in the Young Artist Award in US International Music Competition 2020,
 - 2nd place in the US New Star Music Etude Competition 2020,
@@ -31,10 +25,11 @@ permalink: /en/achievements/
 - 1st place in the Glory International Piano Competition 2022, I category (age 7 & under)
 <br><br><br>
 <h3>Stella Qian</h3>
+- Honourable Mention in the Elevato Piano Competition 2022
 - 2nd place in the Glory International Piano Competition 2022, I category (age 7 & under)
 <br><br><br>
 <h3>Lena Brant</h3>
-- selected to perform at the Junior Bach Festival 2022
+- Selected to perform at the Junior Bach Festival 2022
 <br><br><br>
 <h3>Harluki Lee</h3>
 <2021>
