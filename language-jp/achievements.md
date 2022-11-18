@@ -5,7 +5,6 @@ title: 生徒たちの受賞歴
 permalink: /jp/achievements/
 ---
 <h4>齋藤 璃知 (さいとう りさ) </h4>
-<2022>
 - Performed in the San Jose International Piano Competition Master Class with Dr. Namik Sultanov in 2022
 - 1st place in the Glory International Piano Competition, III category (age 10-13) in 2022
 - 3rd place in the Paderewski International Piano Competition, Junior category in 2022
@@ -33,29 +32,24 @@ permalink: /jp/achievements/
 - Selected to perform at the Junior Bach Festival 2022
 <br><br><br>
 <h4>篠原 陽希 (しのはら はるき)</h4>
-<2021>
-- 2nd place in category A in the Costa Rica International Piano competition
+- 2nd place in category A in the Costa Rica International Piano competition in 2021
 
 <br>
-<2020>
-- 1st place in the Bay Area Piano Competition
-- 3rd prize, group II, in the US New Star Music Etude Competition
-- 2nd place, Young Artist Award Competition, Piano A group, USIMC
+- 1st place in the Bay Area Piano Competition in 2020
+- 3rd prize, group II, in the US New Star Music Etude Competition in 2020
+- 2nd place, Young Artist Award Competition, Piano A group, USIMC in 2020
 <br><br><br>
 <h4>篠原 瑞貴 (しのはら みずき) </h4>
 - 2nd prize, group I in the US New Star Music Etude Competition 2020,
 <br><br><br>
 <h4>アニーシュ夏唯（かい） ダルビ</h4>
-<2020>
-- Honorable Mention, group V, in the US New Star Music Etude Competition,
-- 3rd place in the age 15-17 years old group in the Bay Area Piano Competition
+- Honorable Mention, group V, in the US New Star Music Etude Competition in 2020
+- 3rd place in the age 15-17 years old group in the Bay Area Piano Competition in 2020
 
 <br>
-<2019>
-- Winner of American Fine Arts Festival Summer Selection
+- Winner of American Fine Arts Festival Summer Selection in 2019
 <br><br><br>
 <h4>岸田 優希（きしだ ゆうき）</h4>
-<2019>
 - Performed at Weill Recital Hall in Carnegie Hall in November 2019 as a winners of Golden Classical Music Awards with EXCEPTIONAL YOUNG TALENT Special Prize
 - Winner of American Fine Arts Festival Summer Selection 2019
 - 3rd place in the Bay Area Piano Competition 2019

@@ -32,29 +32,24 @@ permalink: /en/achievements/
 - Selected to perform at the Junior Bach Festival 2022
 <br><br><br>
 <h3>Harluki Lee</h3>
-<2021>
-- 2nd place in category A in the Costa Rica International Piano competition
+- 2nd place in category A in the Costa Rica International Piano competition in 2021
 
 <br>
-<2020>
-- 1st place in the Bay Area Piano Competition
-- 3rd prize, group II, in the US New Star Music Etude Competition
-- 2nd place, Young Artist Award Competition, Piano A group, USIMC
+- 1st place in the Bay Area Piano Competition 2020
+- 3rd prize, group II, in the US New Star Music Etude Competition in 2020
+- 2nd place, Young Artist Award Competition, Piano A group, USIMC in 2020
 <br><br><br>
 <h3>Mizlki Lee</h3>
-- 2nd prize, group I in the US New Star Music Etude Competition 2020,
+- 2nd prize, group I in the US New Star Music Etude Competition in 2020
 <br><br><br>
 <h3>Aneesh Dalvi</h3>
-<2020>
-- Honorable Mention, group V, in the US New Star Music Etude Competition,
-- 3rd place in the age 15-17 years old group in the Bay Area Piano Competition
+- Honorable Mention, group V, in the US New Star Music Etude Competition in 2020
+- 3rd place in the age 15-17 years old group in the Bay Area Piano Competition in 2020
 
 <br>
-<2019>
-- Winner of American Fine Arts Festival Summer Selection
+- Winner of American Fine Arts Festival Summer Selection in 2019
 <br><br><br>
 <h3>Yuki Kishida</h3>
-<2019>
 - Performed at Weill Recital Hall in Carnegie Hall in November 2019 as a winners of Golden Classical Music Awards with EXCEPTIONAL YOUNG TALENT Special Prize
 - Winner of American Fine Arts Festival Summer Selection 2019
 - 3rd place in the Bay Area Piano Competition 2019
