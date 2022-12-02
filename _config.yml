@@ -11,7 +11,7 @@ footer_description: > # this means to ignore newlines until "baseurl:"
   Official website of Nagisa Ariza.
   © 2020 Nagisa Ariza, All Rights Reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nagisaariza.com" # the base hostname & protocol for your site
+url: "https://nagisaariza.com" # the base hostname & protocol for your site
 google_analytics: G-79V1F0J7Q9
 
 # Build settings
