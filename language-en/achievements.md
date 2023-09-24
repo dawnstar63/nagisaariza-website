@@ -55,9 +55,7 @@ permalink: /en/achievements/
 <br><br><br>
 <h3>Harluki Lee</h3>
 - 2nd place in category A in the Costa Rica International Piano competition in 2021
-
-<br>
-- 1st place in the Bay Area Piano Competition 2020
+ 1st place in the Bay Area Piano Competition 2020
 - 3rd prize, group II, in the US New Star Music Etude Competition in 2020
 - 2nd place, Young Artist Award Competition, Piano A group, USIMC in 2020
 <br><br><br>
@@ -74,8 +72,6 @@ permalink: /en/achievements/
 <h3>Aneesh Dalvi</h3>
 - Honorable Mention, group V, in the US New Star Music Etude Competition in 2020
 - 3rd place in the age 15-17 years old group in the Bay Area Piano Competition in 2020
-
-<br>
 - Winner of American Fine Arts Festival Summer Selection in 2019
 <br><br><br>
 <h3>Yuki Kishida</h3>

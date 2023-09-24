@@ -55,8 +55,6 @@ permalink: /jp/achievements/
 <br><br><br>
 <h4>篠原 陽希 (しのはら はるき)</h4>
 - 2nd place in category A in the Costa Rica International Piano competition in 2021
-
-<br>
 - 1st place in the Bay Area Piano Competition in 2020
 - 3rd prize, group II, in the US New Star Music Etude Competition in 2020
 - 2nd place, Young Artist Award Competition, Piano A group, USIMC in 2020
@@ -74,8 +72,6 @@ permalink: /jp/achievements/
 <h4>アニーシュ夏唯（かい） ダルビ</h4>
 - Honorable Mention, group V, in the US New Star Music Etude Competition in 2020
 - 3rd place in the age 15-17 years old group in the Bay Area Piano Competition in 2020
-
-<br>
 - Winner of American Fine Arts Festival Summer Selection in 2019
 <br><br><br>
 <h4>岸田 優希（きしだ ゆうき）</h4>
