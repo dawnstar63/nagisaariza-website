@@ -5,6 +5,9 @@ title: Achievements
 permalink: /en/achievements/
 ---
 <h3>Lisa Saito</h3>
+- Performed in CAPMT Discovery Day 2023 Advanced Piano Masterclass with Dr. William Wellborn
+- 1st prize in Age Group III in Great Composers Competition "Best Mendelssohn Performance" 2023
+- 1st prize in Golden Classical Music Awards 2023
 - Performed in the San Jose International Piano Competition Master Class with Dr. Namik Sultanov in 2022
 - 1st place in the Glory International Piano Competition, III category (age 10-13) in 2022
 - 3rd place in the Paderewski International Piano Competition, Junior category in 2022
@@ -12,7 +15,7 @@ permalink: /en/achievements/
 - Selected the audition to perform at Junior Bach Festival in 2022 & 2021
 - Performed in the Masterclass led by Dmitry Rochmanov in 2021
 - Performed in the Masterclass led by Antonio Pompa-Baldi in 2021
-- Passed the audition to perform at Junior Bach Festival in 2021
+- Selected the audition to perform at Junior Bach Festival in 2021
 - Winner of American Fine Arts Festival Summer Selection in 2021
 - 1st place Special Theme Award (Mozart) and Chinese Music Award in the USIMC in 2020.
 - 1st place Chinese Music Award in the US International Music Competition 2020,
@@ -21,15 +24,34 @@ permalink: /en/achievements/
 - 1st place in the Bay Area Piano Competition in 2020,
 - 1st place in the US International Open Music Competition 2020
 <br><br><br>
-<h3>Maggie Wu</h3>
-- 1st place in the Glory International Piano Competition 2022, I category (age 7 & under)
+<h3>Anna Wang</h3>
+- Participated and performed in John Perry Academy Junior 2023
+- Performed in the 2023 Summer Intensive Piano Workshop with Pianist, Antonio Pompa-Baldi
+- 1st prize in Age Group II in Great Composers Competition "The Music of America" 2023
+- 1st prize & Exceptional Young Talent Special Prize in Golden Classical Music Awards 2023
+- 1st place in age group B piano category in the King's Peak International Music Competition 2023
+- 2nd prize in Category II in Glory International Piano Competition 2022
 <br><br><br>
-<h3>Stella Qian</h3>
-- Honourable Mention in the Elevato Piano Competition 2022
-- 2nd place in the Glory International Piano Competition 2022, I category (age 7 & under)
+<h3>Reina Kimura</h3>
+- Participated and performed in John Perry Academy 2023
 <br><br><br>
 <h3>Lena Brant</h3>
+- 1st prize in Golden Classical Music Awards 2023
+- 1st prize in chamber music group A in Golden Classical Music Awards 2023
+- 2nd prize in Category III in Glory International Piano Competition 2022
+- 2nd prize in Category Duo Junior in Glory International Piano Competition 2022
 - Selected to perform at the Junior Bach Festival 2022
+<br><br><br>
+<h3>Taiki Brant</h3>
+- 1st prize in chamber music group A in Golden Classical Music Awards 2023
+- 3rd prize in Category II in Glory International Piano Competition 2022
+- 2nd prize in Category Duo Junior in Glory International Piano Competition 2022
+<br><br><br>
+<h3>Ian Chen</h3>
+- Performed in the 2023 Summer Intensive Piano Workshop with Pianist, Antonio Pompa-Baldi
+<br><br><br>
+<h3>Kai Zavislak</h3>
+- 1st place in Young Prodigy (Elementary) category in US International Open Music Competition 2023
 <br><br><br>
 <h3>Harluki Lee</h3>
 - 2nd place in category A in the Costa Rica International Piano competition in 2021
@@ -38,6 +60,13 @@ permalink: /en/achievements/
 - 1st place in the Bay Area Piano Competition 2020
 - 3rd prize, group II, in the US New Star Music Etude Competition in 2020
 - 2nd place, Young Artist Award Competition, Piano A group, USIMC in 2020
+<br><br><br>
+<h3>Maggie Wu</h3>
+- 1st place in the Glory International Piano Competition 2022, I category (age 7 & under)
+<br><br><br>
+<h3>Stella Qian</h3>
+- Honourable Mention in the Elevato Piano Competition 2022
+- 2nd place in the Glory International Piano Competition 2022, I category (age 7 & under)
 <br><br><br>
 <h3>Mizlki Lee</h3>
 - 2nd prize, group I in the US New Star Music Etude Competition in 2020
