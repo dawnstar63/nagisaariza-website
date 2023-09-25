@@ -110,3 +110,4 @@ o 3rd place in U.S. Open Music Competition (2017)
 - MusiGals Piano Trio (2015-2016)
 - Master Classes
 o Music@Menlo faculty
+　
