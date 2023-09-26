@@ -5,17 +5,16 @@ title: Achievements
 permalink: /en/achievements/
 ---
 <h3>Lisa Saito</h3>
-- Performed in CAPMT Discovery Day 2023 Advanced Piano Masterclass with Dr. William Wellborn
+- Performed in CAPMT Discovery Day 2023 Advanced Piano Masterclass led by Dr. William Wellborn
 - 1st prize in Age Group III in Great Composers Competition "Best Mendelssohn Performance" 2023
 - 1st prize in Golden Classical Music Awards 2023
-- Performed in the San Jose International Piano Competition Master Class with Dr. Namik Sultanov in 2022
+- Performed in the San Jose International Piano Competition Masterclass with Dr. Namik Sultanov in 2022
 - 1st place in the Glory International Piano Competition, III category (age 10-13) in 2022
 - 3rd place in the Paderewski International Piano Competition, Junior category in 2022
 - Honorable Mention in the Pacific Musical Society in 2022
 - Selected the audition to perform at Junior Bach Festival in 2022 & 2021
 - Performed in the Masterclass led by Dmitry Rochmanov in 2021
 - Performed in the Masterclass led by Antonio Pompa-Baldi in 2021
-- Selected the audition to perform at Junior Bach Festival in 2021
 - Winner of American Fine Arts Festival Summer Selection in 2021
 - 1st place Special Theme Award (Mozart) and Chinese Music Award in the USIMC in 2020.
 - 1st place Chinese Music Award in the US International Music Competition 2020,
@@ -90,7 +89,7 @@ permalink: /en/achievements/
 - 3rd place in CMTANC competition (2009)
 
 <br>
- Master Classes/Private Lessons
+ Masterclasses/Private Lessons
 - John Perry
 - Sasha Starcevich
 - Dmitry Rachmanov
@@ -109,5 +108,5 @@ permalink: /en/achievements/
 - Luz Piano Trio (2016-2017)
 o 3rd place in U.S. Open Music Competition (2017)
 - MusiGals Piano Trio (2015-2016)
-- Master Classes
+- Masterclasses
 o Music@Menlo faculty
