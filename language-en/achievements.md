@@ -26,16 +26,17 @@ permalink: /en/achievements/
 <br><br><br>
 <h3>Anna Wang</h3>
 - Participated and performed in John Perry Academy Junior 2023
-- Performed in the 2023 Summer Intensive Piano Workshop with Pianist, Antonio Pompa-Baldi
 - 1st prize in Age Group II in Great Composers Competition "The Music of America" 2023
 - 1st prize & Exceptional Young Talent Special Prize in Golden Classical Music Awards 2023
 - 1st place in age group B piano category in the King's Peak International Music Competition 2023
 - 2nd prize in Category II in Glory International Piano Competition 2022
 <br><br><br>
 <h3>Reina Kimura</h3>
+- Performed in the 2023 Summer Intensive Piano Workshop with Pianist, Antonio Pompa-Baldi
 - Participated and performed in John Perry Academy 2023
 <br><br><br>
 <h3>Lena Brant</h3>
+- Performed in the 2023 Summer Intensive Piano Workshop with Pianist, Antonio Pompa-Baldi
 - 1st prize in Golden Classical Music Awards 2023
 - 1st prize in chamber music group A in Golden Classical Music Awards 2023
 - 2nd prize in Category III in Glory International Piano Competition 2022
