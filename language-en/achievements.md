@@ -5,7 +5,13 @@ title: Achievements
 permalink: /en/achievements/
 ---
 <h3>Lisa Saito</h3>
-- Performed in CAPMT Discovery Day 2023 Advanced Piano Masterclass led by Dr. William Wellborn
+
+- 2nd Prize [Piano Competition Online](https://www.piano-competition.online/8th-edition-february-2024/) in 2024
+- Silver Prizes Ad Libitium Piano Competition: Piano Junior, 20th Century, Bach category in 2024
+- 2nd Prize Elevato Stanza International Piano Competition Junior category (age group E), Best Chopin Prize in 2024
+- 1st Prize Best Mendelssohn Performance [Great Composers Competition](http://www.gccseries.online/2023/02/results-best-mendelssohn-performance.html) (age group III) in 2023
+- 1st Prize (age 9-12 category) [Golden Classical Music Awards](https://www.goldenclassicalmusicawards.com/) in 2023
+- Performed in CAPMT Discovery Day 2023 Advanced Piano Masterclass led by Dr. William Wellborn in 2023
 - 1st prize in Age Group III in Great Composers Competition "Best Mendelssohn Performance" 2023
 - 1st prize in Golden Classical Music Awards 2023
 - Performed in the San Jose International Piano Competition Masterclass with Dr. Namik Sultanov in 2022
@@ -24,6 +30,8 @@ permalink: /en/achievements/
 - 1st place in the US International Open Music Competition 2020
 <br><br><br>
 <h3>Anna Wang</h3>
+- 1st Place [King’s Peak International Music Competition](https://kingspeakmusiccompetition.com/winners) Piano age group B in 2023
+- 2nd Prize [Glory International Piano Competition Online](https://www.glorypianocompetition.online/2022-2-results-by-category/ii) (age Category II) in 2023
 - Participated and performed in John Perry Academy Junior 2023
 - 1st prize in Age Group II in Great Composers Competition "The Music of America" 2023
 - 1st prize & Exceptional Young Talent Special Prize in Golden Classical Music Awards 2023
@@ -31,10 +39,15 @@ permalink: /en/achievements/
 - 2nd prize in Category II in Glory International Piano Competition 2022
 <br><br><br>
 <h3>Reina Kimura</h3>
+- 2nd Prize [Piano Competition Online](https://www.piano-competition.online/8th-edition-february-2024/) in 2024
+- Silver Prize at Ad Libitum Piano Competition Senior Category, Silver Prize for 20th Century and Bach, Bronze Prize for Beethoven and Brahms in 2024
 - Performed in the 2023 Summer Intensive Piano Workshop with Pianist, Antonio Pompa-Baldi
 - Participated and performed in John Perry Academy 2023
 <br><br><br>
 <h3>Lena Brant</h3>
+- 2nd Prize (Piano Duo) [Glory International Piano Competition Online](https://www.glorypianocompetition.online/2022-2-results-by-category/duo-junior)(Duo Junior Category) in 2023
+- 2nd Prize [Glory International Piano Competition Online](https://www.glorypianocompetition.online/2022-2-results-by-category/iii) (age Category III) in 2023
+- 1st Prize (age 9-12 category), (Piano Duo) = 1st Prize in Chamber Music Group A (under age 12) [Golden Classical Music Awards](https://www.goldenclassicalmusicawards.com/) in 2023
 - Performed in the 2023 Summer Intensive Piano Workshop with Pianist, Antonio Pompa-Baldi
 - 1st prize in Golden Classical Music Awards 2023
 - 1st prize in chamber music group A in Golden Classical Music Awards 2023
@@ -43,6 +56,9 @@ permalink: /en/achievements/
 - Selected to perform at the Junior Bach Festival 2022
 <br><br><br>
 <h3>Taiki Brant</h3>
+- 2nd Prize (Piano Duo) [Glory International Piano Competition Online](https://www.glorypianocompetition.online/2022-2-results-by-category/duo-junior)(Duo Junior Category) in 2023
+- 3rd Prize [Glory International Piano Competition Online](https://www.glorypianocompetition.online/2022-2-results-by-category/ii) (age Category II) in 2023
+- (Piano Duo) = 1st Prize in Chamber Music Group A (under age 12) [Golden Classical Music Awards](https://www.goldenclassicalmusicawards.com/) in 2023
 - 1st prize in chamber music group A in Golden Classical Music Awards 2023
 - 3rd prize in Category II in Glory International Piano Competition 2022
 - 2nd prize in Category Duo Junior in Glory International Piano Competition 2022
